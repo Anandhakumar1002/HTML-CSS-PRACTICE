@@ -1,0 +1,47 @@
+p{
+    font-family: arial;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+.poster{
+    
+    width: 200px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+   
+}
+
+.anand{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    object-position: top;
+}
+
+.name{
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+.mutual{
+    color: rgb(83, 81, 81);
+    margin-top: 3px;
+    margin-bottom: 5px;
+
+}
+.friend{
+    margin-left: 8px;
+    height: 35px;
+    width: 120px;
+    background-color: rgb(24, 119, 242);
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}

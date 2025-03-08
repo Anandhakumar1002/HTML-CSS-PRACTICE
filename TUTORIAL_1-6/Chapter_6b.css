@@ -1,0 +1,15 @@
+p{
+    text-align: center;
+    font-family: montserrat;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.title{
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 0px;
+
+}
+.subtitle1{
+    text-decoration: underline;
+}
