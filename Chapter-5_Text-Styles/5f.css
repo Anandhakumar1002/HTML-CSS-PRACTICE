@@ -1,0 +1,27 @@
+p{
+    font-family: arial;
+    margin-bottom: 10px;
+
+    }
+.title{
+ 
+    font-size:50px;
+
+
+}
+.usd{
+    font-size: 25px;
+    color: gray;
+
+}
+.num{
+    color: green;
+    }
+.updates{
+    color: gray;
+
+}
+.spacify{
+    color: rgb(139, 2, 2);
+    
+}

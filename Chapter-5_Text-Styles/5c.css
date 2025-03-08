@@ -1,0 +1,30 @@
+p{
+    font-family:Verdana;
+}
+
+.title{
+font-weight: bold;
+font-size: 30px;
+color: black;
+margin-bottom:1;
+}
+
+.stat{
+color:gray;
+margin-top:0;
+}
+
+.description{
+width:350px;
+margin-top:30;
+}
+
+.get-start{
+color: white;
+background-color: green;
+border: none;
+height: 32px;
+width:120px;
+border-radius:6px;
+margin-top:10px;
+}

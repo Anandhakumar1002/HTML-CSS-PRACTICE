@@ -1,0 +1,49 @@
+div{
+    font-family: arial;
+
+}
+
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: rgb(120, 82, 178);
+    color: white;
+    align-items: center;
+
+
+    
+}
+
+.home{
+    font-weight: bold;
+
+}
+
+.search-bar{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    width: 400px;
+    border-radius: 12px;
+    padding-left: 10px;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+button{
+    color: white;
+    border-color: white;
+    background-color:rgb(120, 82, 178) ;
+    border-width: 1px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: solid;
+    border-width: 1px;
+}

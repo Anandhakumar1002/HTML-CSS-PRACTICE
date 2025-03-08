@@ -1,0 +1,17 @@
+.stretch{
+    color: white;
+    background-color: rgb(2, 151, 2);
+    border: none;
+    height: 32px;
+    width: 100px;
+    cursor: pointer;
+    transition: 1s;
+    font-size: 20px;
+    border-radius: 4px;
+}
+.stretch:hover{
+    height: 64px;
+    width: 200px;
+    font-size: 40px;
+    background-color: darkgreen;
+}

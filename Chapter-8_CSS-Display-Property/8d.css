@@ -1,0 +1,39 @@
+p{
+    font-family: arial;
+
+}
+
+.para{
+    font-size: 30px;
+    display: block;
+}
+
+.location{
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 30px;
+    width: 250px;
+    border-radius: 5px;
+    background-color: rgb(235, 235, 235);
+    border: none;
+}
+
+.button1{
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    color: white;
+    background-color: black;
+    border: none;
+
+}
+.button2{
+    margin-left: 15px;
+    height: 30px;
+    width: 135px;
+    border: none;
+    background-color: rgb(235, 235, 235);
+
+
+}

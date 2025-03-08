@@ -1,0 +1,20 @@
+p{
+    font-family: arial;
+    margin-bottom: 8px;
+}
+.code{
+    font-weight: bold;
+
+}
+.free{
+    color: gray;
+
+}
+.description{
+    margin-top: 5px;
+    width: 470px;
+
+}
+.ch{
+    color: rgb(0, 113, 227);
+}

@@ -1,0 +1,18 @@
+.searchbar{
+    border-color: black;
+    border-width: 1px;
+    border-radius: 5px;
+    width: 340px;
+    height: 30px;
+
+}
+.agree{
+    color:white;
+    background-color: rgb(7, 7, 207);
+    border:none;
+    width: 200px;
+    height: 30px;
+    margin-left: 50px;
+    border-radius: 25px;
+
+}

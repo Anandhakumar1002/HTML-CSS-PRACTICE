@@ -1,0 +1,55 @@
+p{
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.title{
+
+font-weight: bold;
+font-size: 18px;  
+width: 300px;;
+margin-top: 0;
+}
+
+.stats{
+
+font-size: 14;
+color: gray;
+}
+
+.author{
+
+font-size: 14;
+color: gray;
+margin-bottom:20;
+}
+
+.description{
+
+font-size: 14px;
+color:gray;
+width: 300px;
+line-height: 22px;
+margin-bottom: 100px;
+}
+
+.apple-text{
+margin-bottom: 50px;
+font-size: 14px;
+background-color: rgb(227, 65, 64);
+color: white;
+text-align: center;
+padding-top: 18px;
+padding-bottom: 18PX;
+width: 500px;
+}
+
+.shop-now{
+cursor: pointer;
+}
+
+.shop-now:hover{
+
+text-decoration: underline;
+}

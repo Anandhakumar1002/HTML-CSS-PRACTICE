@@ -1,0 +1,13 @@
+.name,
+.mail{
+    display: block;
+    width: 300px;
+    text-align: left;
+    border-color: black;
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    border: solid;
+    border-width: 1px;
+    
+}
