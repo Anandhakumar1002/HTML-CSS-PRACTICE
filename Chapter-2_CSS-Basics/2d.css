@@ -1,0 +1,27 @@
+.bootstrap-button {
+    background-color: rgb(100, 31, 226);
+    color:white;
+    height: 40px;
+    width: 120px;
+    border: none;
+    border-radius: 6px;
+
+}
+
+.bootstrap-download {
+    background-color: white;
+    height: 40px;
+    width: 120px;
+    border-color: black;
+    border-width: 1px;
+    margin-left: 10px;
+    border-radius: 4px;
+}
+
+.bootstrap-download:hover{
+background-color: rgba(128, 128, 128, 0.623);
+color: white;
+border-color:rgba(128, 128, 128, 0.623) ;
+
+
+}
