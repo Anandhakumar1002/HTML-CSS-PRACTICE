@@ -6,6 +6,9 @@
     border: none;
     border-radius: 20px;
 }
+.linkedin-button:hover{
+    background-color: rgb(1, 62, 141);
+}
 
 .linkedin-save{
     color:  rgb(0, 99, 228);

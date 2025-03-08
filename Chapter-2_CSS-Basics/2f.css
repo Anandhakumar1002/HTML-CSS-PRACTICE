@@ -1,0 +1,25 @@
+.back-to-amazon{
+    color: rgba(1, 77, 77, 0.733);
+    cursor: pointer
+    ;
+}
+.price{
+    color: rgb(3, 121, 3);
+}
+.add-to-cart{
+    color: black;
+    background-color: rgb(255, 255, 0);
+    border: none;
+    height: 32px;
+    width: 120px;
+    border-radius: 20px;
+}
+
+.buy-now{
+    background-color: orange;
+    border: none;
+    height: 32px;
+    width: 120px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
