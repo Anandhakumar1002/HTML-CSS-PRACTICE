@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            div{
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .flexbox{
+
+                width: 520px;
+                height: 140px;
+                border: solid;
+                border-width: 1px;
+
+            }
+
+            .row1{
+                display: flex;
+                flex-direction: row;
+                height: 30px;
+                border: solid;
+                border-width: 1px;  
+   
+            }
+
+            .inbox{
+                color: gray;
+                padding-top: 10px;
+                padding-left: 10px;
+
+
+            }
+            .row2{
+                display: flex;
+                flex-direction: row;
+                height: 100px;
+                border: solid;
+                border-width: 1px;  
+
+            }
+
+            .profile-pic{
+                height: 70px;
+                width: 70px;
+                margin-left: 20px;
+                border-radius: 35px;
+                object-fit: cover;
+                
+                
+
+            }
+
+            .row2-column1{
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                width: 110px;
+
+                
+            }
+
+            .row2-column2{
+                display: flex;
+                flex-direction: column;
+                width: 410px;
+                
+            }
+            .row2-column2-row1{
+                display: flex;
+                flex-direction: row;
+                border: solid;
+                border-width: 1px;
+                
+                justify-content: space-between;
+
+
+            }
+
+            .row3{
+                display: flex;
+                flex-direction: row;
+                height: 20px;
+            }
+
+            .row2-column2-row1-column1{
+                font-weight: bold;
+                padding-left: 10px;
+                padding-top: 10px;
+                font-size: 20px;
+            }
+
+            .row2-column2-row1-column2{
+                display: flex;
+                flex-direction: row;
+               
+                
+            }
+            .time{
+                padding-right: 10px;
+                padding-top: 10px;
+                color: gray;
+            }
+
+            .text{
+                font-size: 18px;
+                color: gray;
+                
+
+            }
+            .row2-column2-row2{
+                display: flex;
+                flex-direction: row;
+                align-items: start;
+
+            }
+        </style>
+
+    </head>
+
+    <body>
+        <div class="flexbox">
+            <div class="row1">
+                <div class="inbox">ALL INBOXES</div>
+            </div>
+            <div class="row2">
+                <div class="row2-column1">
+                    <img src="anand.jpeg" class="profile-pic">
+                </div>
+                <div class="row2-column2">
+                    <div class="row2-column2-row1">
+                        <div class="row2-column2-row1-column1">
+                            <div>Chewy Promotions</div>
+                            <div>Biggest sales of the year!</div>
+                        </div>
+                        <div class="row2-column2-row1-column2">
+                            <div class="time">4:58 PM</div>
+                        </div>
+                    </div>
+                    <div class="row2-column2-row2">
+                        <div><p class="text">Hey there! We're writing to tell you about our...</p></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row3"></div>
+
+        </div>
+    </body>
+</html>
